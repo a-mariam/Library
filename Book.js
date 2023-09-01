@@ -5,5 +5,6 @@ constructor(title, author, ISBN) {
     this.ISBN = ISBN
     this.availabilityStatus = true
 }
+}
 
  
